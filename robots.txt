@@ -1,2 +1,3 @@
+plaintext
 user-argent: *
-disallow:
+disallow: /
